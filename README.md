@@ -13,16 +13,6 @@ A Python-based prototype for a **remote healthcare monitoring workflow** focused
 - [Current Status](#current-status)
 - [Features](#features)
 - [Repository Structure](#repository-structure)
-- [How It Works](#how-it-works)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Sample Workflow](#sample-workflow)
-- [Known Issues](#known-issues)
-- [Limitations](#limitations)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
